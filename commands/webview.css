@@ -1,0 +1,10 @@
+html, body, webview {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  height:900px;
+  width:1350px;
+}
